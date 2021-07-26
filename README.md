@@ -1,3 +1,5 @@
+OBS: Não foi possível o realizamento do deploy.
+
 API REST
 
 REST é uma interface de programação de aplicações (API ou API web) que está em conformidade com as restrições do estilo de arquitetura REST, 
@@ -21,4 +23,6 @@ requeridas.
 Com o arquivo "server.js" aberto, realiza-se a abertura do servidor com o terminal e digita "node server.js", após mostrar a resposta "server is running",
 abre-se o Insomnia e digite a opção que deseja realizar (exlusão, alteração, update) e em seguidas digite o endereço com a porta escolhida, 
 ex: http://localhost:3000/clients.
+
+
 
