@@ -1,3 +1,15 @@
+/* 
+Descricao :
+	Programa que realiza a buscar de dados
+    para realizar tarefas como alterar,
+    deletar, buscar e fazer update dos
+    dados do data.json.
+Aluno :
+	Antônio Carlos Ramos Filho
+Data :
+	24/07/2021
+*/
+
 const express = require("express");
 const app = express();
 const data = require("./data.json");

@@ -1,7 +1,10 @@
 {
   "name": "TRABALHOWEB-APIREST-FINAL",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
+  "scrpts":{
+    "start": "node server.js"
+  },
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
